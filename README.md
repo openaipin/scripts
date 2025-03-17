@@ -1,5 +1,5 @@
 ## Installation and Usage
-Clone the repo and ensure you have adb installed and your AI Pin is connected (see [Building an Interposer](https://github.com/MaxMaeder/OpenPin?tab=readme-ov-file#building-a-interposer))
+Clone the repo and ensure you have adb installed and your AI Pin is connected. ([Interposer](https://github.com/openaipin/interposer))
 
 ```bash
 git clone https://github.com/openaipin/scripts.git
